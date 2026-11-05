@@ -3,3 +3,6 @@ code is divided :
     backend : desgining first 
 
 9:09
+
+understand  the code and write it. 
+understand each block of code. 
