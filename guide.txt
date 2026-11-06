@@ -6,3 +6,4 @@ code is divided :
 
 understand  the code and write it. 
 understand each block of code. 
+understand the concept and write code. 
