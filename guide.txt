@@ -10,4 +10,7 @@ code is divided :
 understand  the code and write it. 
 understand each block of code. ss
 understand the concept and write code. 
-use own .env dont copy mine. 
+                    USE OWN .ENV DON'T COPY MINE !!
+
+updated folder struture with frontened 
+and backend too. 
