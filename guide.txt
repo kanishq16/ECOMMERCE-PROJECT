@@ -5,7 +5,7 @@ code is divided :
     frontened 
     backend : desgining first 
 
-9:09
+16:02
 
 understand  the code and write it. 
 understand each block of code. ss
